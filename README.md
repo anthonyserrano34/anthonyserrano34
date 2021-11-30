@@ -1,8 +1,6 @@
 <h1 align="center">Bonjour 👋, Je suis Anthony Serrano</h1>
 <h3 align="center">Un jeune développeur de 19 ans qui touche un petit peu à tout !</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anthonyserrano34" alt="anthonyserrano34" /></a> </p>
-
 - 🔭 Actuellement étudiant en seconde année à [l'EPSI de Montpellier](https://www.epsi.fr/)
 
 - 📫 Me contacter : **anthony.serrano@epsi.fr**
